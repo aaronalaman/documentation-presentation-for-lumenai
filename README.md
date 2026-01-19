@@ -1,1 +1,1 @@
-Repository for sharing documents created & submitted for Bellevue College's "ThinkCity" Hackathon 2026.
+Devpost Credentials: https://devpost.com/software/streetlight-projection?ref_content=my-projects-tab&ref_feature=my_projects
